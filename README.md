@@ -1,1 +1,1 @@
-# landing-page
+This is a simple website landing page to test my knowledge on flexbox foundation that i have learned through the odin project
