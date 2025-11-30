@@ -39,22 +39,25 @@ body{
 .bottom{
     display: flex;
     justify-content: space-between;
+    gap: 175px;
 }
 
 .hero{
     font-size: 48px;
     font-weight: 900;
     color: #f9faf8;
+    width: 300px;
 }
 
 .hsub{
     font-size: 18px;
     color: #e5e7eb;
     margin-bottom: 16px;
+    width: 300px;
 }
 
 .left{
-    width: 500px;
+    width: 300px;
 }
 
 .right{
